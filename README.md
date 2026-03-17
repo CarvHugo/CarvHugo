@@ -5,7 +5,7 @@ Transformando aprendizado em projetos reais.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+em+formação;Python+%7C+APIs+%7C+Banco+de+Dados;Construindo+projetos+reais" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Python+%7C+APIs+%7C+Banco+de+Dados;Construindo+projetos+reais" />
 </p>
 
 ---
