@@ -12,10 +12,10 @@ Transformando aprendizado em projetos reais.
 
 ## 🧠 Sobre mim
 
-💻 Desenvolvedor com foco em backend utilizando Python  
-🚀 Experiência com projetos práticos envolvendo CRUD, automação e banco de dados  
-🔄 Em constante evolução, aplicando refatoração e boas práticas de código  
-🎯 Buscando minha primeira oportunidade como desenvolvedor  
+💻 Desenvolvedor backend com foco em Python e APIs REST  
+🚀 Experiência prática com FastAPI, CRUD, autenticação, deploy e banco de dados  
+🔄 Aplicando refatoração, organização de código e integração cliente-servidor em projetos reais  
+🎯 Buscando minha primeira oportunidade como desenvolvedor backend
 
 ---
 
@@ -23,7 +23,11 @@ Transformando aprendizado em projetos reais.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Requests-2C5BB4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-ED5C2C?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -32,15 +36,20 @@ Transformando aprendizado em projetos reais.
 
 ## 📌 Projetos em destaque
 
-### 🍽️ Cardápio Virtual (em desenvolvimento)
-Sistema com foco em backend para gerenciamento de produtos.
+### 🍽️ FastAPI Cardápio Fullstack
 
-- CRUD completo de alimentos  
-- Integração com banco de dados SQLite  
-- Interface CLI para administração  
-- Estrutura pensada para futura integração com interface web   
+Aplicação fullstack em evolução para gerenciamento de cardápio, desenvolvida com Python e FastAPI.
 
-🔗 https://github.com/CarvHugo/cardapio-fullstack
+- API REST com FastAPI  
+- CRUD completo de produtos  
+- Banco de dados SQLite  
+- Integração CLI ↔ API utilizando Requests  
+- Autenticação via API Key  
+- Deploy online no Render  
+- Refatoração e separação de responsabilidades  
+- Atualização parcial de produtos com PATCH  
+
+🔗 https://github.com/CarvHugo/fastapi-cardapio-api
 
 ---
 
@@ -57,9 +66,11 @@ Bot interativo com comandos personalizados.
 
 ## 📚 Atualmente estudando
 
-- Desenvolvimento web com Python (Flask/FastAPI)  
-- Estruturação de APIs  
-- Boas práticas e refatoração de código  
+- APIs REST com FastAPI  
+- Arquitetura backend e refatoração  
+- Deploy de aplicações  
+- Integração cliente-servidor  
+- Boas práticas de desenvolvimento backend
 
 ---
 
