@@ -49,7 +49,7 @@ Aplicação fullstack em evolução para gerenciamento de cardápio, desenvolvid
 - Refatoração e separação de responsabilidades  
 - Atualização parcial de produtos com PATCH  
 
-🔗 https://github.com/CarvHugo/fastapi-cardapio-api
+🔗 https://github.com/CarvHugo/fastapi-cardapio-fullstack
 
 ---
 
